@@ -1,0 +1,77 @@
+body{
+  background-color: linen;
+}
+p{
+  color: : white;
+}
+#java-showing{
+  display: none;
+}
+.clickable {
+  cursor: pointer;
+  color: #0088cc;
+  text-align: center;
+}
+
+.clickable:hover {
+  text-decoration: underline;
+}
+#jum-1{
+  background-color: skyblue;
+  border: solid;
+}
+#string-showing{
+  display: none;
+}
+.click{
+  cursor: pointer;
+  color: #0088cc;
+}
+#jum-2 {
+  background-color: #380000;
+  border: solid;
+}
+#methods-showing{
+  display: none;
+}
+#jum-3{
+  background-color: hotpink;
+  border: solid;
+}
+.touch{
+  cursor: pointer;
+  color: #0088cc
+}
+#arguement-showing{
+  display: none;
+}
+#jum-4{
+  background-color: turquoise;
+  border: solid;
+}
+.arg{
+  cursor: pointer;
+  color: #0088cc
+}
+#parameter-showing{
+  display: none;
+}
+#jum-5{
+  background-color: purple;
+  border: solid;
+}
+.par{
+  cursor: pointer;
+  color: #0088cc;
+}
+#boolean-showing{
+  display: none;
+}
+#jum-6{
+  background-color: green;
+  border: solid;
+}
+.bool{
+  cursor: pointer;
+  color: #0088cc;
+}
